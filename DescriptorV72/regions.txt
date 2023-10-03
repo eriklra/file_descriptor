@@ -1,0 +1,5 @@
+REGIONS,REGION_ID,1,1,REGION_NAME,2,26
+1Europe
+2Americas
+3Asia
+4Middle East and Africa
